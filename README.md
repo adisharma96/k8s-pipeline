@@ -28,7 +28,7 @@ Please read the Requirements section for additional information about the kubeco
 
 ## Text Manipulation problem: Using awk to print the ip address and hostname of your computer ##
 All commands are in a bash script: ### `ip.sh` ###. 
-I have solved the same using python3 code as well in the python3.6 script. Along with that there are some extra awk commands that i have used to format the output of cat /etc/passwd command making it much more easy to read.
+I have solved the same using python3 code as well using the python script `hostname.py` script. Along with that there are some extra awk commands that i have used to format the output of cat /etc/passwd command making it much more easy to read.
 `awk.sh` ---> formats output of cat /etc/passwd command.
 
 ##### Terraform #########
